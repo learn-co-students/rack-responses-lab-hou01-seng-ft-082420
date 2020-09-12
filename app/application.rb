@@ -17,6 +17,5 @@ class Application
 
         resp.finish
     end
-    require 'time'
 
 end
